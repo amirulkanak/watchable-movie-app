@@ -1,0 +1,2 @@
+# Watchable Movies
+This is a Streamlit app that allows users to search for movies and view their details, including a poster image, description, and rating. The app uses the TMDB API to fetch movie data.
